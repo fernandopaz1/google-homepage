@@ -78,6 +78,11 @@ hr{
     padding: 10px 12px;
     pointer-events: none;
 }
+
+#searchInput{
+    outline:none;
+}
+
 .searchBox input[type=text] {
     border:0px;
     box-shadow: 10px 10px;
